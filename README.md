@@ -6,3 +6,9 @@ Our improved ExtremeNet is proposed based on [ExtremeNet codes]( https://github.
 Some test results are as follows:
 
 ![image](https://github.com/liuronggg/An-improved-ExtremeNet/blob/main/results/1.jpg)
+
+![image](https://github.com/liuronggg/An-improved-ExtremeNet/blob/main/results/2.jpg)
+
+![image](https://github.com/liuronggg/An-improved-ExtremeNet/blob/main/results/3.jpg)
+
+![image](https://github.com/liuronggg/An-improved-ExtremeNet/blob/main/results/4.jpg)
